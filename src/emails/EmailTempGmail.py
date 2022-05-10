@@ -1,6 +1,7 @@
 import requests
 import time
-from creator.utils.LinkExtract import LinkExtractor
+
+from src.utils.LinkExtract import LinkExtractor
 
 
 class EmailTempGmail:

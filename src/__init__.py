@@ -1,14 +1,14 @@
 import time
 
-from creator.Discord import Discord
-from creator.captcha.CaptchaAntiCaptcha import CaptchaAntiCaptcha
-from creator.captcha.CaptchaCapmonster import CaptchaCapmonster
-from creator.emails.EmailGmailnator import EmailGmailnator
-from creator.emails.EmailKopeechka import EmailKopeechka
-from creator.emails.EmailTempGmail import EmailTempGmail
-from creator.sms.SmsSmsActivate import SmsSmsActivate
-from creator.sms.SmsSmsServiceOnline import SmsSmsServiceOnline
-from creator.utils.Generator import generateDOB, generatePassword, generateUsername
+from src.Discord import Discord
+from src.captcha.CaptchaAntiCaptcha import CaptchaAntiCaptcha
+from src.captcha.CaptchaCapmonster import CaptchaCapmonster
+from src.emails.EmailGmailnator import EmailGmailnator
+from src.emails.EmailKopeechka import EmailKopeechka
+from src.emails.EmailTempGmail import EmailTempGmail
+from src.sms.SmsSmsActivate import SmsSmsActivate
+from src.sms.SmsSmsServiceOnline import SmsSmsServiceOnline
+from src.utils.Generator import generateDOB, generatePassword, generateUsername
 
 
 def create(capthaAPI, emailAPI, phoneAPI, proxy=None, username=None, verbose: bool = True, captcha_type='anticaptcha', email_type="kopeechka",

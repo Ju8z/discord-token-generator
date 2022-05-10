@@ -3,7 +3,7 @@ import pickle
 import random
 import time
 
-from creator import create
+from src import create
 
 user_dat = "user.dat"
 
