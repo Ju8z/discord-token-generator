@@ -1,4 +1,4 @@
 beautifulsoup4==4.11.1
-git+https://github.com/<MAINTAINER>/Discord-Build-Info-PY.git#egg=discord_build_info_py
+git+https://github.com/Ju8z/Discord-Build-Info-PY.git#egg=discord_build_info_py
 git+https://github.com/Merubokkusu/Discord-S.C.U.M.git#egg=discum
 requests==2.26.0
