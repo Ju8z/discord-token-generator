@@ -44,7 +44,6 @@ phoneVerification = False  # enable or disable phone verification after email wa
 random_names = True  # if true generate random names, if false takes names from the name.txt file
 upload_avatar = True  # if true uploads avatar from the avatar folder, else does nothing
 createAmount = 10  # how many tokens will be created
-max_retry = 0  # if fails how many times it should retry
 
 # --------------------------------------------------------- End of Config ---------------------------------------------------------
 
