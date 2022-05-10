@@ -12,3 +12,12 @@ Use your own API Tokens those in configuration are just examples.
 Note:
 Many email services are not valid since their emails already used for discord. You can check RapidAPI and chose some another api the code of api is almost
 identical everywhere. Also don't forget free RapidAPI version have only 50 calls per day.
+
+
+
+Troubleshooting
+----------------
+If you have this problem ![image](https://user-images.githubusercontent.com/6261338/167702364-3436b035-c1d1-43a2-a19b-85eb46137fc9.png)
+that means your proxy suck! Use mobile proxies from "Bright Data" and use VPS from https://www.vultr.com/?ref=8954163 (by refering youll get some goodies). Also do not forget to whitelist the IP from VPS!
+
+
