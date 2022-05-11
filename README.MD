@@ -21,3 +21,5 @@ If you have this problem ![image](https://user-images.githubusercontent.com/6261
 that means your proxy suck! Use mobile proxies from "Bright Data" and use VPS from https://www.vultr.com/?ref=8954163 (by refering youll get some goodies). Also do not forget to whitelist the IP from VPS!
 
 
+Donations:
+BSC/AVALANCHE/POLYGON/ETH/ = 0x00000001404200e3921EF55C2Aea3115744D8D53
