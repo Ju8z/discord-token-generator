@@ -1,0 +1,6 @@
+zaialduz@rennicheanechigli.gq:8ZGT9ALRDCRU:OTc0MjI5ODU5NTExNDU1NzY0.GKZD3C.rS5_V5ZpF4XXAMVpY5VS60dVmPC4tnDUviMAm4:proxyusername:proxypassword@brightdata.com:8127
+medinichnoe5224@geodrelisly.gq:DB4L88X0EYSR:OTc0MjQxMzQyMjYxNjk4NTgw.G-mVF-.33PPdjC9cLE0gS5iC5KbVII1RHz38Zo7AmpXLM:None
+
+email:username:token:proxyusername:proxypassword@proxyhost:port
+or if no proxy
+email:username:token:proxyusername:none

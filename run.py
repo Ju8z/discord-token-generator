@@ -26,14 +26,14 @@ with open('proxy.txt') as f:
 
 # Captcha API-------------------
 anticaptcha = 'e406ba428792cc378b71b2ca6fc65192'
-capmonster = '550f0f9c61d50154036b42ba57eb2b97'
+capmonster = 'e94d822ba627b6946515bb5b9116e797ac1'
 captcha_type = 'capmonster'  # Set which captcha api to use
 
 # Email API-------------------
 kopeechka = '0afcf16125ff8cee395f24f341158dee'
 gmailnator = '28d36f41b7msh30398bd1d7ed3b8p1b924fjsnddc67ade2aa7'
 tempgmail = '28d36f41b7msh30398bd1d7ed3b8p1b924fjsnddc67ade2aa7'
-email_type = 'tempgmail'  # Set which email api to use
+email_type = 'kopeechka'  # Set which email api to use
 
 # Sms API-------------------
 smsactivate = '964529e413Ad07d3f7510ce0A334d5f6'
