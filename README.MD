@@ -9,7 +9,8 @@ Use your own API Tokens those in configuration are just examples.
 2. Install dependencies using: pip install -r req.txt
 3. Go to project and folder and run this command: python3 run.py
 
- 
+Note:
+You can also remove proxy in a proxy.txt file and use your IP.
 
 Troubleshooting
 ----------------
