@@ -70,7 +70,7 @@ def createAccount():
     try:
 
         user = names[name_count] if not random_names and len(names) != 0 and name_count <= len(names) else None
-        img_path = "avatar/" + images[image_count] if (upload_avatar and len(images) != 0 and image_count <= len(images)) else None
+        img_path = "src/avatar/" + images[image_count] if (upload_avatar and len(images) != 0 and image_count <= len(images)) else None
 
         print(img_path)
 
